@@ -15,5 +15,6 @@ aleksandr.sribnyi@oceli.energy
 Проект создан на основе второго задания.
 Созданы задачи заглушки, просто чтобы показать, что инциденты создаются, для вызова ошибки нужно раскомментированную строку в .gitlab-ci.yml
 # Результат срабатывания триггера
-![image](https://user-images.githubusercontent.com/66842337/203706600-f0972022-e350-44cb-bb6d-4eb6650dc972.png)
+![image](https://user-images.githubusercontent.com/66842337/203714781-efdb9b9c-a324-4a18-b8ff-87668b1cd395.png)
+
 
